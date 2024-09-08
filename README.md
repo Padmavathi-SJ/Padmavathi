@@ -33,8 +33,9 @@
 <!-- GitHub Stats Card -->
 <h3><strong>GitHub Stats</strong></h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Padmavathi-SJ&show_icons=true&theme=dark&border_color=000000&title_color=F7E03C&icon_color=F7E03C" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Padmavathi-SJ&show_icons=true&theme=dark&border_color=000000&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" />
 </p>
+
 
 
   <!-- Streak Stats -->
