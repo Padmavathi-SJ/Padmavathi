@@ -41,7 +41,7 @@
   <!-- Streak Stats -->
   <h3><strong>Current Streak</strong></h3>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Padmavathi-SJ&theme=github_light&border=E1E4E8&fire=2C8EBB&currStreakLabel=0366D6" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Padmavathi-SJ&theme=dark&border=black&fire=gold&currStreakLabel=gold" alt="GitHub Streak" />
   </p>
 
   <!-- LeetCode Card -->
