@@ -32,11 +32,12 @@
     <img src="https://skillicons.dev/icons?i=github,figma,vscode,git" alt="tools" /> 
   </p>
 
-  <!-- GitHub Stats Card -->
-  <h3><strong>GitHub Stats</strong></h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Padmavathi-SJ&show_icons=true&theme=github_light&border_color=E1E4E8&title_color=0366D6&icon_color=2C8EBB" alt="GitHub Stats" />
-  </p>
+ <!-- GitHub Stats Card -->
+<h3><strong>GitHub Stats</strong></h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Padmavathi-SJ&show_icons=true&theme=dark&border_color=000000&title_color=FFD700&icon_color=FFD700" alt="GitHub Stats" />
+</p>
+
 
   <!-- Streak Stats -->
   <h3><strong>Current Streak</strong></h3>
