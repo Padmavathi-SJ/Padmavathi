@@ -15,7 +15,7 @@
     🚀 Full Stack Developer (React, Node.js, AWS) <br>
     🌱 Currently learning Data Structures and Cloud Computing <br>
     👨‍💻 Student Intern in Cloud Computing Laboratory at BIT <br>
-    💼 Intern at BYTS [Build Your Technical Skills] <br>
+    💼 Intern at BYTS INDIA [Build Your Technical Skills] <br>
     📫 Reach me: <a href="mailto:padmasj54@gmail.com">padmasj54@gmail.com</a>
   </p>
 
