@@ -21,15 +21,11 @@
 
 
   <!-- Badges for Languages & Tools -->
-  <h3><strong>Tech Stack</strong></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,js,react,aws,docker,kubernetes,git,nodejs,mysql,c,expressjs,html,css,mongodb" alt="skills" /> 
-  </p>
+  <h3><strong>Languages & Tools</strong></h3>
+ <p>
+    <img src="https://skillicons.dev/icons?i=java,js,react,aws,docker,kubernetes,git,nodejs,mysql,c,express,html,css,mongodb,tailwindcss,sql,gh,figma,vscode,git" alt="skills" /> 
+</p>
 
-  <h3><strong>Tools</strong></h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=github,figma,vscode,git" alt="tools" /> 
-  </p>
 
 <!-- GitHub Stats Card -->
 <h3><strong>GitHub Stats</strong></h3>
