@@ -8,21 +8,22 @@
 
   <!-- Brief Intro with Icons -->
   <h3 align="center">
-    <strong>Passionate Programmer & Developer from India</strong>
+    <strong>FullStack Developer & DevOps Engineer</strong>
   </h3>
-  <p>
+<p>
     🎓 Pursuing B.E in CSE <br>
-    🚀 Full Stack Developer (React, Node.js, AWS) <br>
-    🌱 Currently learning Data Structures and Cloud Computing <br>
+    🚀 Full Stack Developer (React.js, Node.js, Express.js, MySQL, Docker, Kubernetes, AWS) <br>
+    🌱 Currently learning AWS Cloud, Docker, Kubernetes <br>
+    🔗 All of my projects available at <a href="https://github.com/Padmavathi-SJ" target="_blank">Github</a> <br>
     👨‍💻 Student Intern in Cloud Computing Laboratory at BIT <br>
-    💼 Intern at BYTS INDIA [Build Your Technical Skills] <br>
-    📫 Reach me: <a href="mailto:padmasj54@gmail.com">padmasj54@gmail.com</a>
-  </p>
+    📫 Reach me: <a href="mailto:padmasj54@gmail.com">padmasj54@gmail.com</a> <br>
+</p>
+
 
   <!-- Badges for Languages & Tools -->
   <h3><strong>Tech Stack</strong></h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,js,react,aws,cpp,python,git,nodejs,mysql,c,expressjs,html,css,mongodb" alt="skills" /> 
+    <img src="https://skillicons.dev/icons?i=java,js,react,aws,docker,kubernetes,git,nodejs,mysql,c,expressjs,html,css,mongodb" alt="skills" /> 
   </p>
 
   <h3><strong>Tools</strong></h3>
