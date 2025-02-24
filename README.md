@@ -23,7 +23,7 @@
   <!-- Badges for Languages & Tools -->
   <h3><strong>Languages & Tools</strong></h3>
  <p>
-    <img src="https://skillicons.dev/icons?i=java,js,react,aws,docker,kubernetes,git,nodejs,mysql,c,express,html,css,mongodb,tailwindcss,sql,gh,figma,vscode,git" alt="skills" /> 
+    <img src="https://skillicons.dev/icons?i=java,js,react,aws,docker,git,nodejs,mysql,c,express,html,css,mongodb,tailwindcss,sql,figma,vscode,git" alt="skills" /> 
 </p>
 
 
