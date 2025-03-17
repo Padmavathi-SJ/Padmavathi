@@ -14,10 +14,11 @@
     🎓 Pursuing B.E in CSE <br>
     🚀 Full Stack Developer (React.js, Node.js, Express.js, MySQL, Docker, Kubernetes, AWS) <br>
     🌱 Currently learning AWS Cloud, Docker, Kubernetes <br>
-    🔗 All of my projects available at [https://padmavathisj.onrender.com/](https://padmavathisj.onrender.com)
+    🔗 All of my projects available at <a href="https://padmavathisj.onrender.com/" target="_blank">padmavathisj.onrender.com</a> <br>
     👨‍💻 Student Intern in Cloud Computing Laboratory at BIT <br>
     📫 Reach me: <a href="mailto:padmasj54@gmail.com">padmasj54@gmail.com</a> <br>
 </p>
+
 
 
   <!-- Badges for Languages & Tools -->
